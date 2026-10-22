@@ -1,0 +1,17 @@
+[
+  {"id": "P-101", "name": "Cooling Water Pump 1", "type": "centrifugal_pump", "location": "Building A / Line 1 / Cooling Loop",
+   "manufacturer": "KSB", "model": "Etanorm 65-200", "criticality": "A",
+   "failure_modes": ["BRG-OVERHEAT", "BRG-WEAR", "SEAL-LEAK", "MISALIGN"]},
+  {"id": "P-102", "name": "Cooling Water Pump 2 (standby)", "type": "centrifugal_pump", "location": "Building A / Line 1 / Cooling Loop",
+   "manufacturer": "KSB", "model": "Etanorm 65-200", "criticality": "B",
+   "failure_modes": ["BRG-OVERHEAT", "BRG-WEAR", "SEAL-LEAK", "MISALIGN"]},
+  {"id": "COMP-201", "name": "Screw Air Compressor", "type": "compressor", "location": "Building B / Utilities",
+   "manufacturer": "Atlas Copco", "model": "GA 37", "criticality": "A",
+   "failure_modes": ["BRG-OVERHEAT", "FILTER-CLOG", "OIL-DEGRADE"]},
+  {"id": "CONV-301", "name": "Packing Line Conveyor", "type": "conveyor", "location": "Building A / Line 3 / Packing",
+   "manufacturer": "Interroll", "model": "RollerDrive EC5000", "criticality": "B",
+   "failure_modes": ["BELT-WEAR", "BRG-WEAR", "MISALIGN"]},
+  {"id": "FAN-401", "name": "Cooling Tower Fan", "type": "fan", "location": "Roof / Cooling Tower",
+   "manufacturer": "EBM-Papst", "model": "W3G910", "criticality": "C",
+   "failure_modes": ["BRG-WEAR", "IMBALANCE"]}
+]

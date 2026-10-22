@@ -1,0 +1,10 @@
+[
+  {"id": "WO-2025-0412", "asset_id": "P-101", "type": "preventive", "priority": "medium",
+   "description": "Quarterly lubrication and vibration route", "failure_mode": null, "status": "closed", "created_at": "2025-10-01T08:00:00"},
+  {"id": "WO-2026-0031", "asset_id": "P-101", "type": "preventive", "priority": "medium",
+   "description": "Quarterly lubrication and vibration route", "failure_mode": null, "status": "open", "created_at": "2026-01-05T08:00:00"},
+  {"id": "WO-2026-0044", "asset_id": "COMP-201", "type": "corrective", "priority": "high",
+   "description": "High pressure drop across intake filter", "failure_mode": "FILTER-CLOG", "status": "in_progress", "created_at": "2026-01-20T10:30:00"},
+  {"id": "WO-2026-0050", "asset_id": "CONV-301", "type": "corrective", "priority": "medium",
+   "description": "Belt tracking off-centre, edge fraying", "failure_mode": "BELT-WEAR", "status": "open", "created_at": "2026-01-26T14:10:00"}
+]

@@ -1,0 +1,4 @@
+[
+  {"file": "P-101_bearing_temp.csv", "asset_id": "P-101", "parameter": "bearing_temperature_c",
+   "warning": 75.0, "critical": 85.0, "spike_delta": 6.0, "unit": "degC"}
+]

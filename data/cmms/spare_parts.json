@@ -1,0 +1,14 @@
+[
+  {"sku": "SKF-6309-2Z", "name": "Deep groove ball bearing 6309", "compatible_assets": ["P-101", "P-102"],
+   "stock": 3, "reorder_point": 2, "lead_time_days": 4, "unit_cost": 38.5},
+  {"sku": "SKF-LGMT2-1KG", "name": "General purpose bearing grease LGMT 2 (1 kg)", "compatible_assets": ["P-101", "P-102", "CONV-301", "FAN-401"],
+   "stock": 6, "reorder_point": 2, "lead_time_days": 3, "unit_cost": 24.0},
+  {"sku": "KSB-SEAL-65", "name": "Mechanical seal kit Etanorm 65", "compatible_assets": ["P-101", "P-102"],
+   "stock": 1, "reorder_point": 1, "lead_time_days": 21, "unit_cost": 310.0},
+  {"sku": "AC-FILT-GA37", "name": "Air intake filter GA 37", "compatible_assets": ["COMP-201"],
+   "stock": 2, "reorder_point": 1, "lead_time_days": 7, "unit_cost": 85.0},
+  {"sku": "AC-OIL-ROTO-20L", "name": "Roto-Inject fluid 20 L", "compatible_assets": ["COMP-201"],
+   "stock": 1, "reorder_point": 1, "lead_time_days": 10, "unit_cost": 260.0},
+  {"sku": "INT-BELT-EC5", "name": "Conveyor belt EC5000 section", "compatible_assets": ["CONV-301"],
+   "stock": 0, "reorder_point": 1, "lead_time_days": 28, "unit_cost": 540.0}
+]
